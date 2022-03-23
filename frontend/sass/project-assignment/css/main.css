@@ -1,0 +1,86 @@
+body {
+  background-color: cornsilk;
+}
+
+nav {
+  background-color: bisque;
+  position: relative;
+  top: 0;
+  width: 100%;
+  padding: 10px;
+}
+
+nav a {
+  text-align: right;
+  list-style-type: none;
+  list-style-type: none;
+  margin: 0;
+  padding: 15px;
+}
+
+nav ul {
+  text-align: right;
+  list-style-type: none;
+  list-style-type: none;
+  margin: 0;
+  padding: 10px;
+}
+
+nav li {
+  display: inline;
+  font-family: 'Fira Sans', sans-serif;
+  font-size: 17px;
+}
+
+nav a {
+  color: black;
+  font-size: 10;
+  text-decoration: none;
+  padding: 14px;
+}
+
+nav:hover {
+  background-color: gainsboro;
+}
+
+h2 {
+  background-color: bisque;
+}
+
+img {
+  width: 50%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+footer {
+  background-color: bisque;
+  border-bottom: 1px;
+  padding: 0.5rem;
+  position: relative;
+  top: 0;
+  text-align: center;
+}
+
+footer ul {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  list-style: none;
+}
+
+button:hover {
+  background-color: burlywood;
+}
+
+h3 {
+  background-color: bisque;
+}
+/*# sourceMappingURL=main.css.map */

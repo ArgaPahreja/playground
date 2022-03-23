@@ -5,5 +5,8 @@ let b = prompt('Masukan variabel kedua: ');
 
 // TODO: answer here
 
+[a, b] = [b, a]
+
 console.log(`Nilai a setelah ditukar: ${a}`);
+
 console.log(`Nilai b setelah ditukar: ${b}`);
